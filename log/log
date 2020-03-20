@@ -1,0 +1,580 @@
+2020/03/20 14:16:42.093 [I] [beeweb.go:52]  beego 1.0.0 
+2020/03/20 14:16:42.111 [I] [asm_amd64.s:1357]  http server Running on http://:8080
+2020/03/20 14:16:51.653 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/tr-TR/mvc/controller/jsonxml.md 
+2020/03/20 14:16:51.653 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/tr-TR/intro/contributing.md 
+2020/03/20 14:16:51.654 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/en-US/quickstart/README.md 
+2020/03/20 14:16:51.653 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/en-US/mvc/model/overview.md 
+2020/03/20 14:16:51.653 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/tr-TR/module/README.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/tr-TR/mvc/controller/xsrf.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/ru-RU/advantage/README.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/ru-RU/Controllers_IntegrateApp.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/zh-CN/quickstart/router.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/ja/module/session.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/zh-CN/images/docs.png 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/ru-RU/about.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/zh-CN/Controllers_SafeMap.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/en-US/images/401.png 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/zh-CN/mvc/controller/logs.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/ru-RU/advantage/docs.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/ja/mvc/model/README.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/tr-TR/images/doc_test.png 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/zh-CN/advantage/docs.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/tr-TR/deploy/nginx.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/tr-TR/install/bee.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/images/401.png 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/zh-CN/quickstart.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/tr-TR/mvc/model/rawsql.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/en-US/mvc/model/transaction.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/tr-TR/contributed/README.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/zh-CN/mvc/controller/errors.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/ru-RU/usecases.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/zh-CN/examples/todo.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/ja/module/config.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/ru-RU/images/doc_test.png 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/zh-CN/advantage/monitor.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/zh-CN/mvc/controller/README.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/zh-CN/mvc/controller/session.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/zh-CN/install/bee.md 
+2020/03/20 14:16:51.655 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/tr-TR/mvc/controller/params.md 
+2020/03/20 14:16:59.508 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/ja/examples/chat.md 
+2020/03/20 14:16:59.955 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/ja/advantage/monitor.md 
+2020/03/20 14:17:00.553 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/usecases.md 
+2020/03/20 14:17:01.542 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/mvc/model/test.md 
+2020/03/20 14:17:01.758 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/images/detail.png 
+2020/03/20 14:17:02.761 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/mvc/model/models.md 
+2020/03/20 14:17:03.207 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/module/config.md 
+2020/03/20 14:17:04.381 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/mvc/model/object.md 
+2020/03/20 14:17:04.392 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/module/context.md 
+2020/03/20 14:17:05.067 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/ru-RU/examples/chat.md 
+2020/03/20 14:17:05.536 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/images/doc_test.png 
+2020/03/20 14:17:05.709 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/module/session.md 
+2020/03/20 14:17:05.785 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/ja/install/bee.md 
+2020/03/20 14:17:05.965 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/images/detail.png 
+2020/03/20 14:17:06.375 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/ja/usecases.md 
+2020/03/20 14:17:06.380 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/quickstart/controller.md 
+2020/03/20 14:17:07.353 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/module/config.md 
+2020/03/20 14:17:07.486 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/Controllers_SafeMap.md 
+2020/03/20 14:17:07.544 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/deploy/README.md 
+2020/03/20 14:17:07.544 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/images/architecture.png 
+2020/03/20 14:17:07.713 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/about.md 
+2020/03/20 14:17:07.746 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/mvc/controller/jsonxml.md 
+2020/03/20 14:17:07.750 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/images/dev.png 
+2020/03/20 14:17:07.761 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/examples/README.md 
+2020/03/20 14:17:07.878 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/donate.md 
+2020/03/20 14:17:07.878 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/ja/install/install.md 
+2020/03/20 14:17:07.878 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/mvc/view/README.md 
+2020/03/20 14:17:08.023 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/quickstart/new.md 
+2020/03/20 14:17:08.076 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/faq/FAQ.md 
+2020/03/20 14:17:08.076 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/mvc/model/test.md 
+2020/03/20 14:17:08.142 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/images/401.png 
+2020/03/20 14:17:08.157 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/mvc/view/view.md 
+2020/03/20 14:17:08.169 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/quickstart/README.md 
+2020/03/20 14:17:08.943 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/Controllers_IntegrateApp.md 
+2020/03/20 14:17:21.801 [C] [panic.go:679]  the request url is  /quickstart
+2020/03/20 14:17:21.801 [C] [panic.go:679]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2020/03/20 14:17:21.801 [C] [panic.go:679]  /usr/local/go/src/runtime/panic.go:679
+2020/03/20 14:17:21.801 [C] [panic.go:679]  /usr/local/go/src/runtime/panic.go:199
+2020/03/20 14:17:21.801 [C] [panic.go:679]  /usr/local/go/src/runtime/signal_unix.go:394
+2020/03/20 14:17:21.801 [C] [panic.go:679]  /Users/shuwen/go/src/github.com/beego/beeweb/routers/quickstart.go:33
+2020/03/20 14:17:21.801 [C] [panic.go:679]  /Users/shuwen/go/src/github.com/astaxie/beego/router.go:833
+2020/03/20 14:17:21.801 [C] [panic.go:679]  /usr/local/go/src/net/http/server.go:2802
+2020/03/20 14:17:21.801 [C] [panic.go:679]  /usr/local/go/src/net/http/server.go:1890
+2020/03/20 14:17:21.801 [C] [panic.go:679]  /usr/local/go/src/runtime/asm_amd64.s:1357
+2020/03/20 14:17:25.057 [C] [panic.go:679]  the request url is  /community
+2020/03/20 14:17:25.057 [C] [panic.go:679]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2020/03/20 14:17:25.057 [C] [panic.go:679]  /usr/local/go/src/runtime/panic.go:679
+2020/03/20 14:17:25.057 [C] [panic.go:679]  /usr/local/go/src/runtime/panic.go:199
+2020/03/20 14:17:25.057 [C] [panic.go:679]  /usr/local/go/src/runtime/signal_unix.go:394
+2020/03/20 14:17:25.057 [C] [panic.go:679]  /Users/shuwen/go/src/github.com/beego/beeweb/routers/community.go:33
+2020/03/20 14:17:25.057 [C] [panic.go:679]  /Users/shuwen/go/src/github.com/astaxie/beego/router.go:833
+2020/03/20 14:17:25.057 [C] [panic.go:679]  /usr/local/go/src/net/http/server.go:2802
+2020/03/20 14:17:25.057 [C] [panic.go:679]  /usr/local/go/src/net/http/server.go:1890
+2020/03/20 14:17:25.057 [C] [panic.go:679]  /usr/local/go/src/runtime/asm_amd64.s:1357
+2020/03/20 14:21:13.275 [I] [beeweb.go:52]  beego 1.0.0 
+2020/03/20 14:21:13.290 [I] [asm_amd64.s:1357]  http server Running on http://:8080
+2020/03/20 14:21:45.054 [I] [beeweb.go:52]  beego 1.0.0 
+2020/03/20 14:21:45.068 [I] [asm_amd64.s:1357]  http server Running on http://:8080
+2020/03/20 14:21:51.237 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/ru-RU/images/docs.png 
+2020/03/20 14:21:51.238 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/zh-CN/mvc/controller/params.md 
+2020/03/20 14:21:51.239 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/tr-TR/mvc/controller/config.md 
+2020/03/20 14:21:51.239 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/tr-TR/module/httplib.md 
+2020/03/20 14:21:51.239 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/zh-CN/examples/README.md 
+2020/03/20 14:21:51.240 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/tr-TR/images/doc_test.png 
+2020/03/20 14:21:51.240 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/en-US/deploy/nginx.md 
+2020/03/20 14:21:51.240 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/tr-TR/examples/chat.md 
+2020/03/20 14:21:51.242 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/en-US/mvc/model/overview.md 
+2020/03/20 14:21:51.242 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/zh-CN/quickstart/view.md 
+2020/03/20 14:21:51.242 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/ru-RU/intro/upgrade.md 
+2020/03/20 14:21:51.243 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/zh-CN/examples/chat.md 
+2020/03/20 14:21:51.242 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/tr-TR/module/session.md 
+2020/03/20 14:21:51.243 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/en-US/quickstart.md 
+2020/03/20 14:21:51.242 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/zh-CN/advantage/docs.md 
+2020/03/20 14:21:51.243 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/tr-TR/mvc/controller/params.md 
+2020/03/20 14:21:51.243 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/zh-CN/install/install.md 
+2020/03/20 14:21:51.243 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/zh-CN/module/i18n.md 
+2020/03/20 14:21:51.243 [W] [http.go:48]  Canceled request for %s https://raw.github.com/beego/beedoc/master/zh-CN/images/git-branch-1.png 
+2020/03/20 14:21:59.730 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/mvc/controller/logs.md 
+2020/03/20 14:22:00.074 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/ru-RU/deploy/README.md 
+2020/03/20 14:22:00.131 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/images/git-branch-1.png 
+2020/03/20 14:22:00.141 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/deploy/apache.md 
+2020/03/20 14:22:00.195 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/mvc/model/faq.md 
+2020/03/20 14:22:00.331 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/ja/install/install.md 
+2020/03/20 14:22:00.527 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/ru-RU/advantage/monitor.md 
+2020/03/20 14:22:01.449 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/Reference_BeeWatch.md 
+2020/03/20 14:22:01.537 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/Controllers_IntegrateApp.md 
+2020/03/20 14:22:03.034 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/advantage/docs.md 
+2020/03/20 14:22:03.034 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/Controllers_SafeMap.md 
+2020/03/20 14:22:03.298 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/ru-RU/quickstart.md 
+2020/03/20 14:22:03.431 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/module/session.md 
+2020/03/20 14:22:03.760 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/images/docs.png 
+2020/03/20 14:22:03.910 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/quickstart/controller.md 
+2020/03/20 14:22:04.179 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/mvc/controller/errors.md 
+2020/03/20 14:22:04.367 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/mvc/model/rawsql.md 
+2020/03/20 14:22:04.427 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/mvc/model/transaction.md 
+2020/03/20 14:22:04.580 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/ja/module/cache.md 
+2020/03/20 14:22:04.621 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/ja/module/i18n.md 
+2020/03/20 14:22:04.634 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/ru-RU/deploy/apache.md 
+2020/03/20 14:22:04.946 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/mvc/model/rawsql.md 
+2020/03/20 14:22:05.476 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/ru-RU/contributing_rules.md 
+2020/03/20 14:22:05.549 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/mvc/controller/validation.md 
+2020/03/20 14:22:05.770 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/intro/Introduction.md 
+2020/03/20 14:22:05.942 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/mvc/model/cmd.md 
+2020/03/20 14:22:05.970 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/quickstart/model.md 
+2020/03/20 14:22:06.004 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/about.md 
+2020/03/20 14:22:06.206 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/mvc/controller/router.md 
+2020/03/20 14:22:06.430 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/ru-RU/images/architecture.png 
+2020/03/20 14:22:06.861 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/images/beerun.png 
+2020/03/20 14:22:06.861 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/install/bee.md 
+2020/03/20 14:22:06.861 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/mvc/view/README.md 
+2020/03/20 14:22:06.881 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/images/toolbox.jpg 
+2020/03/20 14:22:06.926 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/images/adminui.png 
+2020/03/20 14:22:07.060 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/deploy/supervisor.md 
+2020/03/20 14:22:07.142 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/mvc/controller/README.md 
+2020/03/20 14:22:07.153 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/quickstart/router.md 
+2020/03/20 14:22:07.190 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/faq/FAQ.md 
+2020/03/20 14:22:07.322 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/quickstart/model.md 
+2020/03/20 14:22:07.334 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/faq/FAQ.md 
+2020/03/20 14:22:07.343 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/images/detail.png 
+2020/03/20 14:22:07.353 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/mvc/controller/flash.md 
+2020/03/20 14:22:07.386 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/mvc/model/test.md 
+2020/03/20 14:22:07.414 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/mvc/model/querybuilder.md 
+2020/03/20 14:22:07.417 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/images/dev.png 
+2020/03/20 14:22:07.461 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/quickstart/new.md 
+2020/03/20 14:22:07.461 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/module/cache.md 
+2020/03/20 14:22:07.680 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/images/beerun.png 
+2020/03/20 14:22:07.789 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/mvc/model/query.md 
+2020/03/20 14:22:07.789 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/mvc/view/page.md 
+2020/03/20 14:22:07.790 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/mvc/view/page.md 
+2020/03/20 14:22:07.794 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/quickstart.md 
+2020/03/20 14:22:07.851 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/ru-RU/usecases.md 
+2020/03/20 14:22:07.921 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/mvc/controller/validation.md 
+2020/03/20 14:22:07.950 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/mvc/controller/urlbuilding.md 
+2020/03/20 14:22:08.075 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/module/README.md 
+2020/03/20 14:22:08.128 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/module/config.md 
+2020/03/20 14:22:08.180 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/mvc/controller/config.md 
+2020/03/20 14:22:08.248 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/mvc/README.md 
+2020/03/20 14:22:08.248 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/mvc/controller/logs.md 
+2020/03/20 14:22:08.248 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/ru-RU/module/cache.md 
+2020/03/20 14:22:08.310 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/mvc/controller/errors.md 
+2020/03/20 14:22:08.310 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/images/init.png 
+2020/03/20 14:22:08.315 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/mvc/model/object.md 
+2020/03/20 14:22:08.315 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/examples/README.md 
+2020/03/20 14:22:08.448 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/quickstart.md 
+2020/03/20 14:22:08.449 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/mvc/model/querybuilder.md 
+2020/03/20 14:22:08.470 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/mvc/model/test.md 
+2020/03/20 14:22:08.577 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/advantage/README.md 
+2020/03/20 14:22:08.577 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/quickstart/new.md 
+2020/03/20 14:22:08.611 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/quickstart/static.md 
+2020/03/20 14:22:08.665 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/team.md 
+2020/03/20 14:22:08.777 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/mvc/controller/config.md 
+2020/03/20 14:22:08.797 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/mvc/README.md 
+2020/03/20 14:22:08.910 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/module/i18n.md 
+2020/03/20 14:22:08.935 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/mvc/controller/router.md 
+2020/03/20 14:22:08.935 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/mvc/view/README.md 
+2020/03/20 14:22:08.935 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/mvc/view/page.md 
+2020/03/20 14:22:08.973 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/mvc/view/view.md 
+2020/03/20 14:22:08.994 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/mvc/view/template.md 
+2020/03/20 14:22:09.104 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/mvc/controller/flash.md 
+2020/03/20 14:22:09.104 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/about.md 
+2020/03/20 14:22:09.174 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/deploy/apache.md 
+2020/03/20 14:22:09.174 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/donate.md 
+2020/03/20 14:22:09.174 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/mvc/controller/jsonxml.md 
+2020/03/20 14:22:09.238 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/mvc/model/object.md 
+2020/03/20 14:22:09.251 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/mvc/model/overview.md 
+2020/03/20 14:22:09.301 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/intro/upgrade.md 
+2020/03/20 14:22:09.304 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/module/README.md 
+2020/03/20 14:22:09.319 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/mvc/model/README.md 
+2020/03/20 14:22:09.367 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/ja/mvc/view/README.md 
+2020/03/20 14:22:09.371 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/ru-RU/module/config.md 
+2020/03/20 14:22:09.398 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/team.md 
+2020/03/20 14:22:09.698 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/deploy/apache.md 
+2020/03/20 14:22:10.490 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/images/monitoring.png 
+2020/03/20 14:22:10.490 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/donate.md 
+2020/03/20 14:22:10.650 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/en-US/mvc/model/querybuilder.md 
+2020/03/20 14:22:10.891 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/tr-TR/intro/releases.md 
+2020/03/20 14:22:10.891 [W] [http.go:48]  Canceled request for %s https://raw.githubusercontent.com/beego/beedoc/master/zh-CN/mvc/model/query.md 
+2020/03/20 14:25:01.169 [I] [models.go:425]  Need to update: en-US/Controllers_IntegrateApp 
+2020/03/20 14:25:01.169 [I] [models.go:425]  Need to update: en-US/Controllers_SafeMap 
+2020/03/20 14:25:01.169 [I] [models.go:425]  Need to update: en-US/Reference_BeeWatch 
+2020/03/20 14:25:01.169 [I] [models.go:425]  Need to update: en-US/about 
+2020/03/20 14:25:01.169 [I] [models.go:425]  Need to update: en-US/advantage/README 
+2020/03/20 14:25:01.169 [I] [models.go:425]  Need to update: en-US/advantage/docs 
+2020/03/20 14:25:01.169 [I] [models.go:425]  Need to update: en-US/advantage/monitor 
+2020/03/20 14:25:01.169 [I] [models.go:425]  Need to update: en-US/contributed/README 
+2020/03/20 14:25:01.169 [I] [models.go:425]  Need to update: en-US/deploy/README 
+2020/03/20 14:25:01.169 [I] [models.go:425]  Need to update: en-US/deploy/apache 
+2020/03/20 14:25:01.169 [I] [models.go:425]  Need to update: en-US/deploy/beego 
+2020/03/20 14:25:01.169 [I] [models.go:425]  Need to update: en-US/deploy/nginx 
+2020/03/20 14:25:01.169 [I] [models.go:425]  Need to update: en-US/deploy/supervisor 
+2020/03/20 14:25:01.169 [I] [models.go:425]  Need to update: en-US/deploy/systemctl 
+2020/03/20 14:25:01.169 [I] [models.go:425]  Need to update: en-US/donate 
+2020/03/20 14:25:01.169 [I] [models.go:425]  Need to update: en-US/examples/README 
+2020/03/20 14:25:01.169 [I] [models.go:425]  Need to update: en-US/examples/chat 
+2020/03/20 14:25:01.169 [I] [models.go:425]  Need to update: en-US/examples/shorturl 
+2020/03/20 14:25:01.169 [I] [models.go:425]  Need to update: en-US/examples/todo 
+2020/03/20 14:25:01.169 [I] [models.go:425]  Need to update: en-US/faq/FAQ 
+2020/03/20 14:25:01.169 [I] [models.go:425]  Need to update: en-US/images/401.png 
+2020/03/20 14:25:01.169 [I] [models.go:425]  Need to update: en-US/images/architecture.png 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/images/beerun.png 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/images/detail.png 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/images/dev.png 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/images/doc_test.png 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/images/docs.png 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/images/flow.png 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/images/git-branch-1.png 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/images/toolbox.jpg 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/install/bee 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/install/install 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/intro/Introduction 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/intro/contributing 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/intro/releases 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/module/README 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/module/cache 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/module/config 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/module/context 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/module/httplib 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/module/i18n 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/module/logs 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/module/session 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/module/toolbox 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/mvc/README 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/mvc/controller/README 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/mvc/controller/config 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/mvc/controller/controller 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/mvc/controller/errors 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/mvc/controller/filter 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/mvc/controller/flash 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/mvc/controller/jsonxml 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/mvc/controller/logs 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/mvc/controller/params 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/mvc/controller/router 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/mvc/controller/session 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/mvc/controller/urlbuilding 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/mvc/controller/validation 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/mvc/controller/xsrf 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/mvc/model/README 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/mvc/model/cmd 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/mvc/model/custom_fields 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/mvc/model/faq 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/mvc/model/models 
+2020/03/20 14:25:01.170 [I] [models.go:425]  Need to update: en-US/mvc/model/object 
+2020/03/20 14:25:01.171 [I] [models.go:425]  Need to update: en-US/mvc/model/orm 
+2020/03/20 14:25:01.171 [I] [models.go:425]  Need to update: en-US/mvc/model/overview 
+2020/03/20 14:25:01.171 [I] [models.go:425]  Need to update: en-US/mvc/model/query 
+2020/03/20 14:25:01.171 [I] [models.go:425]  Need to update: en-US/mvc/model/querybuilder 
+2020/03/20 14:25:01.171 [I] [models.go:425]  Need to update: en-US/mvc/model/rawsql 
+2020/03/20 14:25:01.171 [I] [models.go:425]  Need to update: en-US/mvc/model/test 
+2020/03/20 14:25:01.171 [I] [models.go:425]  Need to update: en-US/mvc/model/transaction 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: en-US/mvc/view/README 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: en-US/mvc/view/page 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: en-US/mvc/view/static 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: en-US/mvc/view/template 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: en-US/mvc/view/view 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: en-US/quickstart 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: en-US/quickstart/README 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: en-US/quickstart/controller 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: en-US/quickstart/model 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: en-US/quickstart/new 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: en-US/quickstart/router 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: en-US/quickstart/static 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: en-US/quickstart/view 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: en-US/screencasts 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: en-US/team 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: en-US/usecases 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: images/401.png 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: images/architecture.png 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: images/beerun.png 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: images/detail.png 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: images/dev.png 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: images/doc_test.png 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: images/docs.png 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: images/flow.png 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: images/git-branch-1.png 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: images/monitoring.png 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: ja/Controllers_IntegrateApp 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: ja/Controllers_SafeMap 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: ja/Reference_BeeWatch 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: ja/about 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: ja/advantage/README 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: ja/advantage/docs 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: ja/advantage/monitor 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: ja/contributed/README 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: ja/examples/chat 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: ja/examples/shorturl 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: ja/examples/todo 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: ja/faq/FAQ 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: ja/install/bee 
+2020/03/20 14:25:01.175 [I] [models.go:425]  Need to update: ja/install/install 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ja/intro/Introduction 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ja/module/README 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ja/module/cache 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ja/module/config 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ja/module/context 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ja/module/httplib 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ja/module/i18n 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ja/module/logs 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ja/module/session 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ja/module/toolbox 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ja/mvc/controller/README 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ja/mvc/model/README 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ja/mvc/view/README 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ja/quickstart 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ja/team 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ja/usecases 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/Controllers_IntegrateApp 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/Reference_BeeWatch 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/about 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/advantage/README 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/advantage/docs 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/advantage/monitor 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/contributed/README 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/contributing_rules 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/deploy/README 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/deploy/apache 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/deploy/beego 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/deploy/nginx 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/deploy/supervisor 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/donate 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/examples/README 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/examples/chat 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/examples/shorturl 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/examples/todo 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/faq/FAQ 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/images/401.png 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/images/architecture.png 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/images/beerun.png 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/images/detail.png 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/images/dev.png 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/images/doc_test.png 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/images/docs.png 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/images/flow.png 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/images/git-branch-1.png 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/images/toolbox.jpg 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/install/bee 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/install/install 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/intro/Introduction 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/intro/contributing 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/intro/releases 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/intro/upgrade 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/module/README 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/module/cache 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/module/config 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/module/context 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/module/httplib 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/module/i18n 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/module/logs 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/module/session 
+2020/03/20 14:25:01.176 [I] [models.go:425]  Need to update: ru-RU/module/toolbox 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: ru-RU/quickstart 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: ru-RU/quickstart/README 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: ru-RU/quickstart/controller 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: ru-RU/quickstart/model 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: ru-RU/quickstart/new 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: ru-RU/quickstart/router 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: ru-RU/quickstart/static 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: ru-RU/quickstart/view 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: ru-RU/screencasts 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: ru-RU/team 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: ru-RU/usecases 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/Controllers_IntegrateApp 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/Controllers_SafeMap 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/Reference_BeeWatch 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/about 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/advantage/README 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/advantage/docs 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/advantage/monitor 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/contributed/README 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/deploy/README 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/deploy/apache 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/deploy/beego 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/deploy/nginx 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/deploy/supervisor 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/donate 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/examples/README 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/examples/chat 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/examples/shorturl 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/examples/todo 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/faq/FAQ 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/images/401.png 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/images/architecture.png 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/images/beerun.png 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/images/detail.png 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/images/dev.png 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/images/doc_test.png 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/images/docs.png 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/images/flow.png 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/images/git-branch-1.png 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/images/toolbox.jpg 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/install/bee 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/install/install 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/intro/Introduction 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/intro/contributing 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/intro/releases 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/module/README 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/module/cache 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/module/config 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/module/context 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/module/httplib 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/module/i18n 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/module/logs 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/module/session 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/module/toolbox 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/mvc/README 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/mvc/controller/README 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/mvc/controller/config 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/mvc/controller/controller 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/mvc/controller/errors 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/mvc/controller/filter 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/mvc/controller/flash 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/mvc/controller/jsonxml 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/mvc/controller/logs 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/mvc/controller/params 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/mvc/controller/router 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/mvc/controller/session 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/mvc/controller/urlbuilding 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/mvc/controller/validation 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/mvc/controller/xsrf 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/mvc/model/README 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/mvc/model/cmd 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/mvc/model/custom_fields 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/mvc/model/faq 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/mvc/model/models 
+2020/03/20 14:25:01.177 [I] [models.go:425]  Need to update: tr-TR/mvc/model/object 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/mvc/model/orm 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/mvc/model/overview 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/mvc/model/query 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/mvc/model/querybuilder 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/mvc/model/rawsql 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/mvc/model/test 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/mvc/model/transaction 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/mvc/view/README 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/mvc/view/page 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/mvc/view/static 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/mvc/view/template 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/mvc/view/view 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/quickstart 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/quickstart/README 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/quickstart/controller 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/quickstart/model 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/quickstart/new 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/quickstart/router 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/quickstart/static 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/quickstart/view 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/screencasts 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/team 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: tr-TR/usecases 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/Controllers_IntegrateApp 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/Controllers_SafeMap 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/Reference_BeeWatch 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/about 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/advantage/README 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/advantage/docs 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/advantage/monitor 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/contributed/README 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/deploy/README 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/deploy/apache 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/deploy/beego 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/deploy/nginx 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/deploy/supervisor 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/donate 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/examples/README 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/examples/chat 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/examples/shorturl 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/examples/todo 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/faq/FAQ 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/images/401.png 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/images/adminui.png 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/images/architecture.png 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/images/beerun.png 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/images/detail.png 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/images/dev.png 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/images/doc_test.png 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/images/docs.png 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/images/flow.png 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/images/git-branch-1.png 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/images/init.png 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/images/toolbox.jpg 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/install/bee 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/install/install 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/intro/Introduction 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/intro/contributing 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/intro/releases 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/intro/upgrade 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/module/README 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/module/cache 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/module/config 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/module/context 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/module/grace 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/module/httplib 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/module/i18n 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/module/logs 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/module/session 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/module/toolbox 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/mvc/README 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/mvc/controller/README 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/mvc/controller/config 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/mvc/controller/controller 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/mvc/controller/errors 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/mvc/controller/filter 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/mvc/controller/flash 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/mvc/controller/jsonxml 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/mvc/controller/logs 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/mvc/controller/params 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/mvc/controller/router 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/mvc/controller/session 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/mvc/controller/urlbuilding 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/mvc/controller/validation 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/mvc/controller/xsrf 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/mvc/model/README 
+2020/03/20 14:25:01.178 [I] [models.go:425]  Need to update: zh-CN/mvc/model/cmd 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/mvc/model/custom_fields 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/mvc/model/faq 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/mvc/model/models 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/mvc/model/object 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/mvc/model/orm 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/mvc/model/overview 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/mvc/model/query 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/mvc/model/querybuilder 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/mvc/model/rawsql 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/mvc/model/test 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/mvc/model/transaction 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/mvc/view/README 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/mvc/view/page 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/mvc/view/static 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/mvc/view/template 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/mvc/view/tutorial 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/mvc/view/view 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/quickstart 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/quickstart/README 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/quickstart/controller 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/quickstart/model 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/quickstart/new 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/quickstart/router 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/quickstart/static 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/quickstart/view 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/screencasts 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/team 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/usecases 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/utils/README 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/utils/captcha 
+2020/03/20 14:25:01.179 [I] [models.go:425]  Need to update: zh-CN/utils/page 
